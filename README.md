@@ -26,4 +26,8 @@ git branch
 `git checkout [브랜치 명]` 이동
 `git swich [브랜치 명]`이동
 
+
+`git checkout -b [브랜치 명]` 생성 이동
+`git swich -c [브랜치 명]` 생성 이동
+
 `git branch -d [브랜치명]` 브랜치 삭제
