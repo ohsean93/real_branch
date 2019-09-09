@@ -48,6 +48,6 @@ git merge develop
 ### merge with conflict
 
 
-##  conflict는?
-### 으악
-아무내용
+##  Conflict 해결방법
+### 발생조건
+- 동일파일 동일 라인의 내용이 다를 경우
