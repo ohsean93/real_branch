@@ -46,3 +46,8 @@ git merge develop
 ### auto merge (without conflict)
 
 ### merge with conflict
+
+
+##  Conflict 해결방법
+### 발생조건
+- 동일파일 동일 라인의 내용이 다를 경우
