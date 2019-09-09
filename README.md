@@ -46,3 +46,8 @@ git merge develop
 ### auto merge (without conflict)
 
 ### merge with conflict
+
+
+##  conflict는?
+### 으악
+아무내용
